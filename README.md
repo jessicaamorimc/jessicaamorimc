@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="👋 Olá! eu sou Jéssica" src="https://raw.githubusercontent.com/jessicaamorimc/jessicaamorimc/main/img/cover1.png">
+  <img alt="👋 Olá! eu sou Jéssica" src="https://raw.githubusercontent.com/jessicaamorimc/jessicaamorimc/main/assets/c1.png">
 </p>
 
 <h2 align="left"> 
@@ -21,4 +21,4 @@
 </div>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img alt="Snake" src="https://raw.githubusercontent.com/jessicaamorimc/jessicaamorimc/main/img/snake.svg">
+<img alt="Snake" src="https://raw.githubusercontent.com/jessicaamorimc/jessicaamorimc/main/assets/snake.svg">
