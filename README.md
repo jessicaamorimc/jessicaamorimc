@@ -1,4 +1,6 @@
-[<img alt="👋 Olá! eu sou Jéssica" src="https://raw.githubusercontent.com/jessicaamorimc/jessicaamorimc/main/assets/c1.png">]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jessicaamorimc/jessicaamorimc/main/assets/c1.png" alt="👋 Olá! eu sou Jéssica"  title="👋 Olá! eu sou Jéssica">
+</p>
 
 <h2 align="left"> 
   <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> 
