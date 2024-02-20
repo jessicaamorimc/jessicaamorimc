@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="👋 Olá! eu sou Jéssica" src="https://raw.githubusercontent.com/jessicaamorimc/jessicaamorimc/main/img/cover1.png">
+  <img alt="👋 Olá! eu sou Jéssica" src="https://raw.githubusercontent.com/jessicaamorimc/jessicaamorimc/main/img/cover2.png">
 </p>
 
 <h2 align="left"> 
