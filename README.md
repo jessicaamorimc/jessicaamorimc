@@ -4,8 +4,7 @@
 
 <h2 align="left"> 
   <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> 
-  Conecte-se: 
-  <img src="https://user-images.githubusercontent.com/42711978/107780737-19675f80-6d6d-11eb-95dd-102a22c972d3.gif" height="32"> 
+  Conecte-se:  
 </h2> 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicaamorimc/)](https://www.linkedin.com/in/jessicaamorimc/)
